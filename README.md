@@ -23,5 +23,7 @@ O layout contém:
   - Fotos
 
 
+![image](https://github.com/user-attachments/assets/bf80f88e-cc1a-48d0-baee-23f84a210597)
+
 
 
