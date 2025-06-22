@@ -9,7 +9,7 @@ O layout é responsivo e inspirado em designs modernos de UI.
 - HTML5
 - CSS3
 - Google Fonts (Roboto)
-- Flexbox (ou Grid, dependendo da versão que usar)
+- Flexbox 
 
 ## 🎨 Layout
 
